@@ -38,7 +38,7 @@ h1 {
 	}
 
 h2 {
-	font-family: 'DaddyLongLegs', sans-serif;
+	font-family: 'DaddyLongLegs', 'Dorsa', Helvetica, Arial, sans-serif;
 	font-size: 4em;
 	color: green;
 	text-align: center;
@@ -46,7 +46,7 @@ h2 {
 	}
 
 h3 {
-	font-family: 'DaddyLongLegs', sans-serif;
+	font-family: 'DaddyLongLegs', 'Dorsa', Helvetica, Arial, sans-serif;
 	font-size: 4em;
 	color: green;
 	text-align: center;
@@ -55,7 +55,7 @@ h3 {
 
 
 h4 {
-	font-family: 'DaddyLongLegs', sans-serif;
+	font-family: 'DaddyLongLegs', 'Dorsa', Helvetica, Arial, sans-serif;
 	font-size: 3em;
 	color: green;
 	text-align: justify;
@@ -91,7 +91,7 @@ li {
 
 a {
 	display: inline;
-	font-family: 'DaddyLongLegs', Helvetica, Arial, sans-serif;
+	font-family: 'DaddyLongLegs', 'Dorsa', Helvetica, Arial, sans-serif;
 	font-size: 2em;
 }
 
@@ -121,7 +121,7 @@ nav a:active {
 footer {
 	text-align: center;
 	padding-top: 5%;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 	font-size: .75em;
 	}
 
@@ -155,7 +155,7 @@ main img {
 p {
 	line-height: 120%;
 	text-align: justify;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 	padding: 0 5%;
 	}
 
