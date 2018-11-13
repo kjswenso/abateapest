@@ -24,9 +24,8 @@ header {
 	}
 
 @font-face {
-	font-family: DaddyLongLegs;
-	/*src: url('DaddyLonglegsNF.otf');*/
-	src: url('../abateapest/DaddyLongLegsNF.otf');
+	font-family: 'DaddyLongLegs';
+	src: url('../DaddyLonglegsNF.otf');
 	}
 
 h1 {
@@ -35,6 +34,7 @@ h1 {
 	color: green;
 	text-align: center;
 	margin: 2%;
+	font-weight: bold;
 	}
 
 h2 {
@@ -131,6 +131,7 @@ footer {
 .main-home {
 	display: flex;
 	flex-direction: column;
+	min-width: 0;
 	background: #e8e8e8;
 	margin: 0 auto;
 	width: 100%;
@@ -145,11 +146,13 @@ main img {
 
 .comp-info {
 	display: flex;
+	max-width: 100%;
 }
 
 
 .comp-intro {
 	display: block;
+	max-width: 100%;
 }
 
 p {
@@ -211,6 +214,7 @@ p {
 
 .course {
 	width: 40%;
+	margin-top: 5px;
 	margin: 2%;
 	padding: 2%;
 	background-color: #f0f0f0;
