@@ -25,7 +25,8 @@ header {
 
 @font-face {
 	font-family: DaddyLongLegs;
-	src: url('DaddyLongLegsNF.otf');
+	/*src: url('DaddyLonglegsNF.otf');*/
+	src: url('../abateapest/DaddyLongLegsNF.otf');
 	}
 
 h1 {
